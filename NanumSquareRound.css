@@ -1,24 +1,24 @@
 @font-face {
-    font-family: 'Nanum Square Neo';
+    font-family: 'Nanum Square Round';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareRoundL.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.otf');
 }
 @font-face {
-    font-family: 'Nanum Square Neo';
+    font-family: 'Nanum Square Round';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareRound.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.otf');
 }
 @font-face {
-    font-family: 'Nanum Square Neo';
+    font-family: 'Nanum Square Round';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareRoundB.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.otf');
 }
 @font-face {
-    font-family: 'Nanum Square Neo';
+    font-family: 'Nanum Square Round';
     font-weight: 800;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareRoundEB.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.otf');
 }
