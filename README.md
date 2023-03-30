@@ -15,7 +15,7 @@ font-family: 'Nanum Square Round';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.css"/>
 ```
 
 &nbsp;
