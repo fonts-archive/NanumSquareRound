@@ -36,7 +36,9 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundL.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRound.ttf') format('truetype');
 }
 @font-face {
@@ -52,7 +56,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundB.ttf') format('truetype');
 }
 @font-face {
@@ -60,7 +66,9 @@ font-face
     font-weight: 800;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareRound/NanumSquareRoundEB.ttf') format('truetype');
 }
 ```
